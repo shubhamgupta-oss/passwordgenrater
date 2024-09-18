@@ -28,5 +28,6 @@ To install and run the password generator, follow these steps:
 To generate a password, run the following command:
 ```bash
 npm start
+```
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/53115b9d-3de5-4ce8-aa97-40704f013c7a)
