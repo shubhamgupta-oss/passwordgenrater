@@ -29,4 +29,4 @@ To generate a password, run the following command:
 ```bash
 npm start
 
-![Screenshot (3)](https://github.com/user-attachments/assets/1f979445-8840-4e84-b448-fae1e6f18649)
+![Screenshot (3)](https://github.com/user-attachments/assets/53115b9d-3de5-4ce8-aa97-40704f013c7a)
