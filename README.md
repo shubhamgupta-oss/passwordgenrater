@@ -9,8 +9,7 @@ A simple and efficient password generator that creates strong, random passwords 
 - User-friendly interface
 
 ## Installation
-To install and run the password generator, follow these steps:![Screenshot (3)](https://github.com/user-attachments/assets/1f979445-8840-4e84-b448-fae1e6f18649)
-
+To install and run the password generator, follow these steps:
 
 1. Clone the repository:
     ```bash
@@ -29,3 +28,5 @@ To install and run the password generator, follow these steps:![Screenshot (3)](
 To generate a password, run the following command:
 ```bash
 npm start
+
+![Screenshot (3)](https://github.com/user-attachments/assets/1f979445-8840-4e84-b448-fae1e6f18649)
